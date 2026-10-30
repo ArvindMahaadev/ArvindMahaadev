@@ -2,7 +2,7 @@
 - 👀 I’m fond of doing Simple projects in Electronics
 - 🌱 I’m currently learning to work with MicroControllers
 - 💞️ I’m looking forward to collaborate on new projects
-- 📫 If you want to contact, Reach me out via my Email arvind270406@gmail.com
+- 📫 If you want to contact, Reach me out via my Email arvindmahaadev@gmail.com
 
 
 <!---
